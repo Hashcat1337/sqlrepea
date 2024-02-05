@@ -1,0 +1,44 @@
+name=methods
+description=methods menu
+admin=false
+reseller=false
+vip=false
+================== END ==================
+Methods :  UDM
+HOME-HOLD : [SPOOF + BOTNET]
+UDP-BYPASS : [UDP PAYLOAD]
+DISCORD : [CALL BYPASS]
+Methods :  OF GAMES
+GAME : [UDP PAYLOAD CUSTOM]
+R6-RANK : [UDP-BYPASS]
+MCPE : [MINECRAFT EDTION] 
+FIVEM : [FIVEM CONFORMATION TOKEN]
+ROBLOX : [UDP-BYPASS]
+SCP : [APPLICATION BYPASS]
+FORTNITE :  [UDP-SADP]
+Methods :  Transmission Control Protocol
+SYN : [Methods SYN with Server spoof] 
+ACK : [Methods ACK with Server spoof] 
+TFO : [TFO Cookie] 
+HANDSHAKE : [TCP-BYPASS Hanshake For OVH] 
+TCP-SW : [TCP SYN-ACK]
+TCP : [TCP-BYPASS]
+SOCKET : [Mass Socket] 
+BBHOST : [TCP-BYPASS For Hosting BB-HOST]
+HETZNER : [TCP-BYPASS For Hosting Hetzner]
+OVH : [Methods Specific OVH]
+CUBIX-BYPASS : [CUBIX-BYPASS]
+Methods :  BOTNET
+TCP-NUKE : [BOTNET]
+UDP-NUKE : [BOTNET]
+GAME-NUKE : [BOTNET]
+OVH-NUKE : [BOTNET]
+SYN-NUKE : [BOTNET]
+Methods :  LAYER 7
+browser-vip : [CF]
+HTTP-RAW : [ RAW]
+TLS : [TLS Version 3]
+OVHBYPASS : OVH-UDP 
+TCP-BYPASS : TCP-BYPASS
+UDPBYPASS : UDPBYPASS
+OVHTCP : OVHTCP

